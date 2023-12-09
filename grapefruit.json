@@ -1,10 +1,10 @@
 {
-    "name": "Nord",
-    "description": "A theme based on Nord color palette, with a few additional shades, tints & tones",
+    "name": "Grapefruit",
+    "description": "A pastel pink light mode that is solely used by me",
     "authors": [
         {
-            "name": "@vorlie",
-            "id": "614807913302851594"
+            "name": "@qdesiderata",
+            "id": "807386963513573406"
         }
     ],
     "semanticColors": {
